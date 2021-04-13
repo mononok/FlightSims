@@ -2,4 +2,4 @@
 
 旧式となったFlight SimsをなんとかWindows10で動作させようという情報です。
 Wikiをご覧ください。
-[[home]]
+[home](https://github.com/mononok/FlightSims/wiki)
